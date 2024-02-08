@@ -1,0 +1,58 @@
+{
+    "official_links": {
+        "website": "https://ethereum.org/en/",
+        "whitepaper": "https://ethereum.org/en/whitepaper/",
+        "documentation": "https://ethereum.org/en/developers/docs/"
+    },
+    "social_platforms": {
+        "discord": "https://discord.com/invite/ethereum-org",
+        "twitter": "https://twitter.com/ethereum",
+        "reddit": "https://reddit.com/r/ethereum"
+    },
+    "data_aggregator": [
+        {
+            "name": "CoinMarketCap",
+            "url": "https://coinmarketcap.com/currencies/ethereum/"
+        },
+        {
+            "name": "CoinGecko",
+            "url": "https://www.coingecko.com/en/coins/ethereum"
+        },
+        {
+            "name": "DefiLlama",
+            "url": "https://defillama.com/chain/Ethereum"
+        },
+        {
+            "name": "DappRadar",
+            "url": "https://dappradar.com/chain/ethereum"
+        }
+    ],
+    "explorers": [
+        {
+            "name": "Etherscan",
+            "url": "https://etherscan.io/"
+        },
+        {
+            "name": "Blockchair",
+            "url": "https://blockchair.com/ethereum"
+        }
+    ],
+    "wallets": [
+        {
+            "name": "Metamask",
+            "url": "https://metamask.io/"
+        }
+    ],
+    "rpcs": [
+        {
+            "name": "Chainlist",
+            "url": "https://chainlist.org/chain/1"
+        }
+    ],
+    "oracles": [
+        {
+            "name": "Chainlink",
+            "url": "https://chain.link/"
+        }
+    ]
+}
